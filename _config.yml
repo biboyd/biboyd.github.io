@@ -29,11 +29,12 @@ twitter_username: BoydBrendan
 github_username:  biboyd
 
 # Build settings
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.21.0"
 minimal_mistakes_skin: "dark"
 plugins:
   - jekyll-feed
   - jekyll-github-metadata
+  - jekyll-include-cache
 # sit author stuff
 author:
     name	: "Brendan Boyd"
