@@ -1,0 +1,10 @@
+main:
+    - title: "About"
+      url: pages/about.md
+    - title: "Research"
+      url: pages/research.md
+    - title: "CV"
+      url: pages/CV.html
+    - title: "Pretty Pics"
+      url: pages/pretty_pic.md
+    
