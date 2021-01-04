@@ -38,7 +38,7 @@ plugins:
 # sit author stuff
 author:
     name	: "Brendan Boyd"
-    avatar	: "/assets/duck_in_cup.jpg"
+    avatar	: "/assets/profile_pic.jpg"
     bio 	: "Physics Grad Student at Stony Brook University"
     links:
         - label: "GitHub"
