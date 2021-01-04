@@ -1,10 +1,10 @@
 main:
     - title: "About"
-      url: pages/about.md
-    - title: "Research"
-      url: pages/research.md
+      url: /pages/about.html
+#    - title: "Research"
+#      url: /pages/research.html
     - title: "CV"
-      url: pages/CV.html
-    - title: "Pretty Pics"
-      url: pages/pretty_pic.md
+      url: /pages/CV.html
+#    - title: "Pretty Pics"
+#      url: /pages/pretty_pic.html
     

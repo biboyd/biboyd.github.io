@@ -50,6 +50,9 @@ author:
         - label: "Twitter"
           icon: "fab fa-fw fa-twitter-square"
           url: "https://twitter.com/BoydBrendan"
+        - label: "Letterboxd"
+          icon: "fab fa-fw fa-letterboxd"
+          url: "https://letterboxd.com/bbbyeah/"
 
 # home page or something
 paginate: 3
