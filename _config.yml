@@ -38,7 +38,7 @@ plugins:
 # sit author stuff
 author:
     name	: "Brendan Boyd"
-    avatar	: "/assets/duck_in_cup.jpg"
+    avatar	: "/assets/profile_pic.jpg"
     bio 	: "Physics Grad Student at Stony Brook University"
     links:
         - label: "GitHub"
@@ -50,6 +50,9 @@ author:
         - label: "Twitter"
           icon: "fab fa-fw fa-twitter-square"
           url: "https://twitter.com/BoydBrendan"
+        - label: "Letterboxd"
+          icon: "fab fa-fw fa-letterboxd"
+          url: "https://letterboxd.com/bbbyeah/"
 
 # home page or something
 paginate: 3
