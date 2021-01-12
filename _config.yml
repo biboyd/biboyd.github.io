@@ -21,8 +21,8 @@
 title: "Brendan Boyd"
 email: "boyd.brendan@stonybrook.edu"
 description: >- # this means to ignore newlines until "baseurl:"
-  Brendan Boyd's website for showing off stuff and so maybe I can say 
-  I have my own website. Felt Like a fun idea :)
+  Brendan Boyd's website for showing and recording astronomy/physics research and 
+  other interests
 #baseurl: "/biboyd" # the subpath of your site, e.g. /blog
 url: "https://biboyd.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: BoydBrendan
