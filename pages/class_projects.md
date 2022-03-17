@@ -13,9 +13,9 @@ In my stars course we were assigned a final project in which we needed to invest
 
 I ended up having some difficulty with running MESA locally so I ended up using the MESA-web platfrom which was incredibly useful.
 
-The full report can be downloaded [here](/assets/Star_proj.pdf).
+The full report can be downloaded [here](/assets/Stars_proj.pdf).
 
-<embed src="/assets/Star_proj.pdf" height="100%" width="100%">
+<embed src="/assets/Stars_proj.pdf" height="100%" width="100%">
 
 # Undergraduate
 Here are some visuals/projects I did in undergrad. Cheif among them is my senior thesis I did which was the culmination of about a year or so of research with the FOGGIE collaboration. The following summer lead to me developoing SALSA and submitting to JOSS. 
