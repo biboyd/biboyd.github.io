@@ -8,7 +8,7 @@ Hello, I'm Brendan Boyd, a graduate student in the Physics & Astronomy Departmen
 
 Near the end of my time with that group I created the python package [SALSA](https://github.com/biboyd/SALSA) which was then published in [JOSS][salsa-paper] (Journal of Open Source Software). The package uses multiple other open-source python packages to make a streamlined analysis pipeline to generate synthetic observations from galactic simulation data. More information on that package can be found in the [JOSS paper][salsa-paper] and the [documentation](https://salsa.readthedocs.io/en/latest/?badge=latest) made for the tool.
 
-Currently I'm working with the Nuclear Astrophysics group at Stony Brook. In particular, I am working on studying the convective URCA process in White Dwarfs with Dr. Alan Calder. To do this we are utilizing the [AMReX][amrex-astro] based code [MAESTROeX][maestro]. This is a continuation of the work done by Don Wilcox, and represents the first full 3D simulations of this process. 
+Currently I'm working with the Nuclear Astrophysics group at Stony Brook. In particular, I am working on studying the convective URCA process in White Dwarfs with Dr. Alan Calder. To do this we are utilizing the [AMReX][amrex-astro] based code [MAESTROeX][maestro]. This is a continuation of the work done by Don Willcox, and represents the first full 3D simulations of this process. 
 
 Outside of doing homework and other physics type stuff, I enjoy reading and watching movies which I track on my [letterboxd](https://letterboxd.com/bbbyeah/). I've more recently gotten interested in baking bread and may make a dedicated page to that at some point.
 
