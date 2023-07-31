@@ -5,6 +5,6 @@ main:
 #      url: /pages/research.html
     - title: "CV"
       url: /pages/CV.html
-#    - title: "Pretty Pics"
-#      url: /pages/pretty_pic.html
+    - title: "Videos"
+      url: /pages/videos.html
     
