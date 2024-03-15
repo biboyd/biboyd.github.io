@@ -5,6 +5,6 @@ author_profile: true
 classes: wide
 ---
 
-[download](/assets/PrivacyCV_BrendanBoyd.pdf)
+[download](/assets/CV_BrendanBoyd.pdf)
 
-<embed src="/assets/PrivacyCV_BrendanBoyd.pdf" height="100%" width="100%">
+<embed src="/assets/CV_BrendanBoyd.pdf" height="100%" width="100%">
