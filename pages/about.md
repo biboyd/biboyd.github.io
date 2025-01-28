@@ -4,7 +4,7 @@ title: "About"
 author_profile: true
 ---
 
-Hello, I'm Brendan Boyd, a graduate student in the Physics & Astronomy Department at Stony Brook University and a member of the Nuclear Astro group, working with [Alan Calder](http://www.astro.sunysb.edu/acalder/). My research focuses on studying Type Ia Supernovae progentors using hydrodyanmic simulations. I graduated from Michigan State University with a B.S. in Astrophysics. At MSU I worked with Devin Silvia and Brian O'Shea studying the Circumgalactic Medium via galactic simulations as a part of the [FOGGIE](https://foggie.science) collaboration.
+Hello, I'm Brendan Boyd, a graduate student in the Physics & Astronomy Department at Stony Brook University and a member of the Nuclear Astro group, working with [Alan Calder](http://www.astro.sunysb.edu/acalder/). My research focuses on studying Type Ia Supernovae progenitors using hydrodyanmic simulations. I graduated from Michigan State University with a B.S. in Astrophysics. At MSU I worked with Devin Silvia and Brian O'Shea studying the Circumgalactic Medium via galactic simulations as a part of the [FOGGIE](https://foggie.science) collaboration.
 
 
 Currently, I am working on studying the convective Urca process in White Dwarfs with Dr. Alan Calder. To do this we are utilizing the [AMReX][amrex-astro] based code [MAESTROeX][maestro]. This is a continuation of the work done by Don Willcox, and represents the first full 3D simulations of this process. Posters on the work can be seen here [ASTRONUM](/pages/astronum2023_poster_session.html), [AAS](/pages/aas241_poster_session.html). A small collection of visualizations are shown on the [videos](/pages/videos.html) page
