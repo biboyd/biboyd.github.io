@@ -8,6 +8,16 @@ classes: wide
 # Convective Urca Process in Simmering White Dwarfs
 In these videos we dive into the core convection region at the center of a hot dense white dwarf that is on it's way to a supernovae. Our aim is to study the convective Urca process which may alter the evolution of the white dwarf prior to it's incineration in a type Ia supernovae.
 
+## Tracking Convective Motions Over Time
+In this visual we are trying to track how the convective mixing occurs over a couple turnover times. In this case we use ${}^{24}\mathrm{Mg}$ as a tracer. This isotope is useful as it is one of the end states of our nuclear network. Thus, it is only changed by the carbon burning in the core and the subsequent mixing throughout the convection zone.
+
+In this video we can see the dynamic outlfow which begins pointing vertically upward, before moving and eventually shifting to a more horizontal, rightward orientation. Also, you can note the changing color in the region as we slowly enrich the zone via the carbon burning.
+
+https://youtube.com/shorts/
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DECqVXHBaBY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 ## Rotating Snapshot in time
 A key piece to studying the Convective Urca process is to study convection. In this video we look at a snapshot in time of the convection zone in the white dwarf.
 The red regions represent fluid that is moving away from the center (outflows) while the blue regions represent fluid moving inwward, toward the center of the star (inflows).
