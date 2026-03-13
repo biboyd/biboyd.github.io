@@ -5,8 +5,6 @@ author_profile: true
 classes: wide
 ---
 
-<h1> Presentations, Posters, etc.</h1>
-<hr><hr/>
 <ul>
   <li><h2><a href="/pages/nic2025_poster_session.html">NIC 2025 Poster:</a></h2><p> Details from a poster presented at the NIC 2025 conference</p></li>
   <li><h2><a href="/pages/aas245_poster_session.html">AAS 245 Poster:</a></h2><p> Details from a poster presented at the 245th AAS meeting</p></li>

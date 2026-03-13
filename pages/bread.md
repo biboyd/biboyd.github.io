@@ -1,11 +1,10 @@
 ---
 layout: single
-title: Breads
+title:  Baking Bread at Home
 author_profile: true
 classes: wide
 ---
 
-# Baking Bread at Home
 I really like bread. 
 Bread is always best fresh. 
 Started trying to make my own and found out I like baking bread almost as much as I like eating.

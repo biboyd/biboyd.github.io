@@ -3,7 +3,7 @@ main:
       url: /pages/about.html
 #    - title: "Research"
 #      url: /pages/research.html
-    - title: "CV"
+    - title: "CV/Resume"
       url: /pages/CV.html
     - title: "Presentations"
       url: /pages/presentations.html
