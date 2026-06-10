@@ -4,7 +4,8 @@ title: "About"
 author_profile: true
 ---
 
-Hello, I'm Brendan Boyd, a PhD student in the Physics & Astronomy Department at Stony Brook University and a member of the Nuclear Astro group, working with [Alan Calder](http://www.astro.sunysb.edu/acalder/). 
+Hello, I'm Brendan Boyd, a recently graduated PhD student in the Physics & Astronomy Department at Stony Brook University. 
+There, I was a member of the Nuclear Astro group, working with [Alan Calder](http://www.astro.sunysb.edu/acalder/). 
 My research focuses on studying Type Ia Supernovae progenitors using hydrodynamic simulations. 
 These simulations track the slow moving reactive flow in the core of a white dwarf star.
 To run these simulations we take must advantage of HPC resources and parallel computing.
